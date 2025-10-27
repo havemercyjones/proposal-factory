@@ -1,2 +1,5 @@
-# proposal-factory
-Create and manage DAO proposals factory pattern
+# Proposal Factory
+
+A factory to create multiple DAO proposal contracts.
+
+**Keywords:** crypto blockchain web3 solidity dao governance
